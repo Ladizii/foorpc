@@ -1,0 +1,15 @@
+{
+  "name": "foorpc",
+  "version": "1.0.0",
+  "description": "A foobar rich presence.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ladizii",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rich-presence": "0.0.8",
+    "foobar-control-http": "^1.0.0"
+  }
+}
